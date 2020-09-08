@@ -1,0 +1,1 @@
+<set android:interpolator="@android:anim/linear_interpolator" android:fillAfter="true" xmlns:android="http://schemas.android.com/apk/res/android"><translate android:fromYDelta="0%p" android:toYDelta="7%p" android:duration="800" /></set>
